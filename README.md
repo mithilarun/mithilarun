@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Mithil, a software engineer working at Platform9 Systems, and currently living in Chicago, IL.
+
+- 🔭 I’m currently working on building an extensible managed kubernetes platform with [Platform9](https://platform9.com/).
+- 🌱 I’m currently learning how to deploy and run large language model trainers on Kubernetes, experimenting with various custom schedulers to get the most out of GPUs on a Kubernetes environment.
+- 📫 How to reach me: https://www.linkedin.com/in/mithilarun/
+
 <!--
 **mithilarun/mithilarun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
